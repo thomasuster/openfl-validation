@@ -11,7 +11,7 @@
 	<haxelib name="mlib" />
 	<haxelib name="hamcrest" />
 	<haxelib name="format" />
-	
-	<!-- <template path="src/index.html" rename="index.html" if="html5" />
-	-->
+
+    <set name="SHOW_CONSOLE" />
+
 </project>

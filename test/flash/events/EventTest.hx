@@ -50,7 +50,7 @@ class EventTest {
 	}
 	
 	
-	@Test public function new_ () {
+	@Ignore @Test public function new_ () {
 		
 		// ADDED
 		
